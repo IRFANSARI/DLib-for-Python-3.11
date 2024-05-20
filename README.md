@@ -1,6 +1,6 @@
-# DLib-for-Python-3.11
+# DLib-for-Python-3.11 (Windows Only)
 This DLib file is only compatible for Python 3.11 (windows only) <br/>
-To install it here are 2 commands, choose any one of them and copy and paste these commands on cmd
+To install it, here are 2 commands, choose any one of them and copy and paste these commands on cmd
 
 #1
 ```
